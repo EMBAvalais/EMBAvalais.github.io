@@ -1,6 +1,7 @@
 # Description
 
-Le but de cette page est de montrer les possibilités et l'utilité de l'utilisation de GitHub.
+Le but de cette page est de montrer les possibilités et l'utilité de l'utilisation de Git.
+
 Cet outil offre une meilleure gestion des projets, notamment pour le code.
 Il permet de gérer facilement le versionning des fichiers, d'avoir un historique des modifications
 effectuées.
@@ -18,10 +19,10 @@ Libre à vous de vous renseigner pour utiliser Git avec vos programmes préfér�
 
 Sur cette page, nous allons principalement utiliser le site web GitHub, Visual Studio Code et MPLABX.
 
-##sous titre test
+## sous titre test
 sdfsdf
 
-#retitre
+# retitre
 retext
 
 
