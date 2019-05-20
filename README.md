@@ -9,6 +9,8 @@ Il facilite grandement la collaboration sur un même projet et il est même int�
 
 Et nous allons essayer de vous le prouver sur cette page !
 
+>Pour visionner la [version graphique](https://embavalais.github.io/) de cette page. 
+
 # Le commencement
 
 Tout d'abord, Git n'est pas un logiciel en soi mais plutôt une manière de travailler.
