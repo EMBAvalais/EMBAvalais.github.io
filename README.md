@@ -19,8 +19,14 @@ Libre à vous de vous renseigner pour utiliser Git avec vos programmes préfér�
 
 Sur cette page, nous allons principalement utiliser le site web GitHub, Visual Studio Code et MPLABX.
 
-## sous titre test
-sdfsdf
+## Code
+Voici le nouveau code :
+
+```C++
+init(90,0,1);
+tata++;
+int movie = golden;
+```
 
 # retitre
 retext
